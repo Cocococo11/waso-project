@@ -13,7 +13,7 @@ import javax.servlet.http.HttpServletResponse;
 
 /**
  *
- * @author WASO Team
+ * @author ANDRIEU LE BG
  */
 //@WebServlet(name = "ServiceObjetMetierServlet", urlPatterns = {"/ServiceObjetMetier"})
 public class ServiceObjetMetierServlet extends HttpServlet {
